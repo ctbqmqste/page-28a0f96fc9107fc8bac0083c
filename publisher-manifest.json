@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "02b47698f2bb3d2270241bb4",
+  "owner": "ctbqmqste",
+  "repo": "page-28a0f96fc9107fc8bac0083c",
+  "title": "SuperFly",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "28a0f96fc9107fc8bac0083c",
+      "a": "SuperFly",
+      "b": "",
+      "entity": "SuperFly",
+      "brand": "SuperFly",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6b30b93ec465178bbf2cafc27ec96cd95cde0d6a47e8efff1ba92c05aeb9bedf",
+      "content": {
+        "keyword1": "SuperFly",
+        "keyword2": "",
+        "primary_entity": "SuperFly",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "SuperFly 提供清晰透明的流量套餐，覆盖个人与团队场景，支持多设备同时在线与流媒体解锁，按月或按年灵活选择。",
+          "AI_DESCRIPTION": "SuperFly 提供清晰透明的流量套餐，覆盖个人与团队场景，支持多设备同时在线与流媒体解锁，按月或按年灵活选择。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {margin: 0;padding: 0;box-sizing: border-box}\nbody {background: #0a0a0a;color: #e8e8e8;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size: 16px;line-height: 1.6}\n.wrap {max-width: 1200px;margin: 0 auto;padding: 0 24px}\na {color: #ccff00;text-decoration: none}\na:hover {text-decoration: underline}\n\n/* Hero - 杂志式多栏网格 */\n.hero {padding: 72px 0 48px;border-bottom: 1px solid #1f1f1f}\n.hero-grid {display: grid;grid-template-columns: repeat(12, 1fr);gap: 24px}\n.brand-mark {grid-column: 1 / 7}\n.kicker {color: #ccff00;font-size: 12px;letter-spacing: 0.25em;text-transform: uppercase;margin-bottom: 16px}\n.brand-mark h1 {font-size: 64px;font-weight: 800;letter-spacing: -0.03em;line-height: 1;margin-bottom: 24px}\n.brand-mark h1 span {color: #ccff00}\n.brand-mark .lede {font-size: 18px;color: #a0a0a0;max-width: 420px;line-height: 1.7}\n.hero-side {grid-column: 8 / 13;border-left: 1px solid #1f1f1f;padding-left: 32px}\n.hero-side blockquote {font-size: 22px;font-weight: 600;line-height: 1.5;margin-bottom: 20px}</style><div class=\"wrap\">\n\n<header class=\"hero\">\n  <div class=\"hero-grid\">\n    <div class=\"brand-mark\">\n      <div class=\"kicker\">SuperFly / 网络通行证</div>\n      <h1>SuperFly · 流量<span>自由</span><br>设备畅联</h1>\n      <p class=\"lede\">三档套餐，按月或按年。不卖噱头，只讲清楚每月给你多少流量、能挂几台设备、能不能看流媒体。</p>\n    </div>\n    <aside class=\"hero-side\">\n      <blockquote>把节点池、流量额度和设备数写在明面上，买之前就知道自己拿到什么。</blockquote>\n      <p>SuperFly 不做\"无限流量\"的文字游戏。每个套餐有明确的上限和线路等级，用完即止，不降速不限速交替。</p>\n      <div class=\"hero-meta\">\n        <div><span>3</span>套餐档位</div>\n        <div><span>20</span>最多设备数</div>\n        <div><span>月/年</span>付费周期</div>\n      </div>\n    </aside>\n  </div>\n</header>\n\n<nav class=\"anchors\">\n  <div class=\"anchors-inner\">\n    <a href=\"#plans\">套餐对比</a>\n    <a href=\"#how\">使用步骤</a>\n    <a href=\"#clients\">客户端</a>\n    <a href=\"#faq\">常见问题</a>\n  </div>\n</nav>\n\n<main>\n\n<section class=\"section\" id=\"plans\">\n  <h2>套餐对比</h2>\n  <p class=\"sub\">横向对比，一眼看清差异。旗舰版为推荐档位。</p>\n  <div class=\"plans-table-wrap\">\n    <table class=\"plans-table\">\n      <thead>\n        <tr>\n          <th>基础版</th>\n          <th class=\"featured\">旗舰版<span class=\"badge\">推荐</span></th>\n          <th>团队版</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>\n            <div class=\"price\">¥15/月</div>\n            <div class=\"annual\">按年付仅需 ¥150/年</div>\n            <ul>\n              <li>每月 100GB 极速流量</li>\n              <li>支持 3 台设备同时在线</li>\n              <li>解锁基础流媒体</li>\n              <li>普通线路节点池</li>\n            </ul>\n          </td>\n          <td>\n            <div class=\"price\">¥35/月</div>\n            <div class=\"annual\">按年付仅需 ¥350/年</div>\n            <ul>\n              <li>每月 300GB 极速流量</li>\n              <li>支持 5 台设备同时在线</li>\n              <li>全节点原生流媒体解锁</li>\n              <li>IPLC 专线游戏加速优化</li>\n              <li>7x24 优先工单支持</li>\n            </ul>\n          </td>\n          <td>\n            <div class=\"price\">¥85/月</div>\n            <div class=\"annual\">按年付仅需 ¥850/年</div>\n            <ul>\n              <li>每月 1000GB 极速流量</li>\n              <li>支持 20 台设备同时在线</li>\n              <li>VIP 专属高带宽节点</li>\n              <li>支持企业定制路由</li>\n              <li>专属客户经理服务</li>\n            </ul>\n          </td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n</section>\n\n<section class=\"section\" id=\"how\">\n  <h2>使用步骤</h2>\n  <p class=\"sub\">四步开始使用，不绕弯路。</p>\n  <div class=\"steps\">\n    <div class=\"step-card\">\n      <div class=\"step-num\">01</div>\n      <h3>选择套餐</h3>\n      <p>根据每月流量需求和设备数量，选择基础版、旗舰版或团队版。</p>\n    </div>\n    <div class=\"step-card\">\n      <div class=\"step-num\">02</div>\n      <h3>完成支付</h3>\n      <p>按月或按年付款。年付有折扣，不强制绑定，到期自动停用。</p>\n    </div>\n    <div class=\"step-card\">\n      <div class=\"step-num\">03</div>\n      <h3>获取配置</h3>\n      <p>支付后收到节点订阅地址和导入指引，支持主流客户端协议。</p>\n    </div>\n    <div class=\"step-card\">\n      <div class=\"step-num\">04</div>\n      <h3>导入连接</h3>\n      <p>将订阅导入客户端，选择节点，连接后即可使用全部已购权益。</p>\n    </div>\n  </div>\n</section>\n\n<section class=\"section\" id=\"clients\">\n  <h2>客户端说明</h2>\n  <p class=\"sub\">SuperFly 不强制使用专属客户端，标准协议通用。</p>\n  <div class=\"clients-note\">\n    <h3>关于客户端</h3>\n    <p>SuperFly 提供标准订阅地址，可导入主流第三方客户端使用。目前不提供独立 App 下载。</p>\n    <ul>\n      <li>Windows：支持导入订阅的通用客户端均可使用</li>\n      <li>macOS：支持导入订阅的通用客户端均可使用</li>\n      <li>iOS：支持导入订阅的通用客户端均可使用</li>\n      <li>Android：支持导入订阅的通用客户端均可使用</li>\n      <li>具体客户端选择与安装请参考各平台官方说明，SuperFly 不分发第三方软件</li>\n    </ul>\n  </div>\n</section>\n\n<section class=\"section\" id=\"faq\">\n  <h2>常见问题</h2>\n  <p class=\"sub\">双栏排列，挑你关心的看。</p>\n  <div class=\"faq-grid\">\n    <div class=\"faq-item\">\n      <h3>流量用完了怎么办？</h3>\n      <p>流量用完后当月不再产生连接。可以选择升级套餐档位，或等待次月额度自动恢复。不会偷偷降速继续跑。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>可以随时更换套餐吗？</h3>\n      <p>可以。升级套餐按差价补费，当月立即生效。降级套餐在下一个计费周期生效，当前周期不变。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>支持哪些支付方式？</h3>\n      <p>支持支付宝、微信支付。团队版可联系客户经理获取对公转账信息，开具普通发票。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>年付可以退款吗？</h3>\n      <p>年付套餐在首次付款 7 天内未使用流量或使用不超过 5GB，可申请全额退款。超过此范围不退款。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>设备数限制怎么算？</h3>\n      <p>同一订阅地址同时在线的设备数不能超过套餐上限。不同设备轮换使用不额外计费，只要不超同时在线数即可。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>流媒体解锁是永久的吗？</h3>\n      <p>基础版解锁部分流媒体，旗舰版和团队版支持全节点原生解锁。解锁能力取决于目标平台策略变化，SuperFly 不承诺永久有效。</p>\n    </div>\n  </div>\n</section>\n\n</main>\n\n<footer>\n  <p>SuperFly — 流量写在明面上，设备数不打折扣。</p>\n</footer>\n\n</div>",
+          "hash": "961f793ca39c206aac04914ac8ced98b6accd1bf12eb8c7cb47ecb150300597e",
+          "seo": {
+            "title": "SuperFly | 流量自由，设备畅联",
+            "keywords": "SuperFly,网络加速,流媒体解锁,多设备,套餐对比",
+            "description": "SuperFly 提供清晰透明的流量套餐，覆盖个人与团队场景，支持多设备同时在线与流媒体解锁，按月或按年灵活选择。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "8930",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fifityp.cn",
+    "host": "p-c44f446476.fifityp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "54ae183939002931d8f4b793dba2d51ae2ffde89b30411b6d94afca15f3c197b",
+    "sitemap.xml": "e49628f1bb352311d7e8588a0b9ea266a93682e994a114f8f964cf9b36887772",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4bdea7d397d5c2801b14e0a02fb54296de45082e8fbb9e2e16b76af268ea90ed",
+    "robots.txt": "668f531146d03f0d2469a785feca3ee9ec33c645b588939145b2055f8694f81b",
+    "0b8218cf9ca57dbfbd62dd952324aad7.txt": "fc25c70c281814c2a98169d6cbcdd8fa27b1ec8e7393f79b1fe1a2b4b9776c0d"
+  },
+  "revision": "54a66ff081ed9d98b0be31184ccb9d721fa256f593dbb8100a12c178fa6c70e2"
+}

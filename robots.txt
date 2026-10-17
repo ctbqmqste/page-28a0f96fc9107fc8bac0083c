@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c44f446476.fifityp.cn/sitemap.xml
